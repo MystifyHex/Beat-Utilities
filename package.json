@@ -1,0 +1,23 @@
+{
+  "name": "Beat-Utilities",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "captcha-canvas": "^2.3.0",
+    "dayjs": "^1.10.4",
+    "discord-canvas": "^1.4.1",
+    "discord.js": "^12.5.3",
+    "dotenv": "^9.0.2",
+    "mongoose": "^5.12.9",
+    "node-cron": "^3.0.0",
+    "oranged-api": "^2.0.10",
+    "rss-parser": "^3.12.0"
+  }
+}
